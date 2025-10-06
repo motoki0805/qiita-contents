@@ -1,14 +1,14 @@
 ---
 title: 【初投稿】知識の解像度を上げるためにQiitaを始めました
 tags:
-  - 初投稿
-  - 自己紹介
-  - フリーランス
   - Laravel
+  - 自己紹介
+  - 初投稿
+  - フリーランス
   - Webエンジニア
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-10-06T21:18:02+09:00'
+id: 3e18f68e012ef85aa771
 organization_url_name: null
 slide: false
 ignorePublish: false
